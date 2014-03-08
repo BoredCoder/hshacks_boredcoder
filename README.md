@@ -1,4 +1,4 @@
 hshacks_boredcoder
 ==================
 
-Work done by me at HSHacks will be placed in this repository. 
+This repository contains the code that I write at the 2014 HSHacks hackathon. 
